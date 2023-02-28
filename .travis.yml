@@ -3,7 +3,6 @@ jdk:
   - oraclejdk8
 
 before_script:
-  # - sudo apt-get -y install wget
   - bash setup.sh
 
 script:
